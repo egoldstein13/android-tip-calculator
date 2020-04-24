@@ -24,8 +24,8 @@ The following **extensions** are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/oo62I0v"><a href="//imgur.com/a/oo62I0v"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-<!-- <img src='https://imgur.com/a/oo62I0v' title='Video Walkthrough' width='' alt='Video Walkthrough' /> -->
+
+<img src='https://i.imgur.com/YHrslp9.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -35,7 +35,7 @@ Challenges: I used a Spinner to create the dropdown for selecting how many peopl
 
 ## License
 
-    Copyright 2020 Esther Goldstein
+    Copyright 2020 Esther
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
